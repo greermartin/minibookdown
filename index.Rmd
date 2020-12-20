@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Helping or Hurting: A Project Management Primer"
+author: "Greer Martin"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
